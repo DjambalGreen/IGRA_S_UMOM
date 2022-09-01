@@ -13,3 +13,4 @@
 Для просмотра доступных команд введите команду "dotnet --help" или посетите следующую страницу: https://aka.ms/dotnet-cli.
 
 Console.WriteLine("one time mo Hello, bardo всё равно world вместо bardo");
+файл неи был закомичен, по этому нобновление не было отправлено     
