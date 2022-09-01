@@ -1,0 +1,15 @@
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\bin\Debug\net6.0\GWBD.exe
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\bin\Debug\net6.0\GWBD.deps.json
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\bin\Debug\net6.0\GWBD.runtimeconfig.json
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\bin\Debug\net6.0\GWBD.dll
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\bin\Debug\net6.0\GWBD.pdb
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.csproj.AssemblyReference.cache
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.GeneratedMSBuildEditorConfig.editorconfig
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.AssemblyInfoInputs.cache
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.AssemblyInfo.cs
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.csproj.CoreCompileInputs.cache
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.dll
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\refint\GWBD.dll
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.pdb
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\GWBD.genruntimeconfig.cache
+E:\молодой Бро\контроль кода\IGRA_S_UMOM\GWBD\obj\Debug\net6.0\ref\GWBD.dll
